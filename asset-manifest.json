@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HEHEHE/static/css/main.1840bb75.css",
+    "main.js": "/HEHEHE/static/js/main.7e10dbf6.js",
+    "static/js/787.084316db.chunk.js": "/HEHEHE/static/js/787.084316db.chunk.js",
+    "static/media/2.webp": "/HEHEHE/static/media/2.2e38629eca81513f5909.webp",
+    "static/media/1.webp": "/HEHEHE/static/media/1.19293386c285dbbeaa37.webp",
+    "static/media/3.webp": "/HEHEHE/static/media/3.8d676c99de161c26c103.webp",
+    "static/media/4.webp": "/HEHEHE/static/media/4.4c568b27020cdcef115e.webp",
+    "static/media/5.png": "/HEHEHE/static/media/5.1197ad65bf0873548058.png",
+    "static/media/5.webp": "/HEHEHE/static/media/5.4749b011ab62ff65f876.webp",
+    "static/media/6.webp": "/HEHEHE/static/media/6.75d08248a0f0ded6fcec.webp",
+    "static/media/7.webp": "/HEHEHE/static/media/7.8ecb2be2049b16d100e0.webp",
+    "index.html": "/HEHEHE/index.html",
+    "main.1840bb75.css.map": "/HEHEHE/static/css/main.1840bb75.css.map",
+    "main.7e10dbf6.js.map": "/HEHEHE/static/js/main.7e10dbf6.js.map",
+    "787.084316db.chunk.js.map": "/HEHEHE/static/js/787.084316db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1840bb75.css",
+    "static/js/main.7e10dbf6.js"
+  ]
+}
